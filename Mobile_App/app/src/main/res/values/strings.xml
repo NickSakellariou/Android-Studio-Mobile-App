@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Mobile_App</string>
+    <string name="nav_header_title">National vaccination organization</string>
+    <string name="nav_header_subtitle">COVID-19 Vaccination</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>\
+
+    <string name="home_text">The National Vaccination Campaign for covid-19 has started. It is approved for its safety, quality and effectiveness by the competent international and national organizations, the World Health Organization, the EMA (European Medicines Agency) and the FDA (US Food and Drug Administration).
+
+Vaccination, free for all, starts for people being in the front line of health, for vulnerable groups, those in closed structures / care structures and for those who serve in important state services.
+
+The goal is to vaccinate the entire population over 18 years of age. The National Vaccination Committee may change the priority depending on the number of doses available. The vaccine is optional, but necessary to protect ourselves and our fellow human beings. And we do not forget: We continue wearing a mask and keeping our distance for as long as necessary.</string>
+    <string name="gallery_images">Images</string>
+    <string name="gallery_videos">Videos with instructions</string>
+    <string name="menu_vaccination_appointment">Vaccination appointment</string>
+    <string name="vaccination_appointment_title">Fill in your personal information</string>
+    <string name="vaccination_appointment_request">Appointment request</string>
+    <string name="question1"><![CDATA[<html><body><b>1.I am registered in the intangible prescription and I received an SMS with an appointment which serves me. What should I do?</b></body></html> ]]></string>
+    <string name="answer1"><![CDATA[<html><body>The SMS you received indicates a vaccination code. To confirm the appointment you must in turn send an SMS to 13034 writing only this code. You will then receive a new SMS stating that the process has been completed successfully. The pre-booking appointment must be confirmed within 72 hours, otherwise it will expire.</body></html> ]]></string>
+    <string name="question2"><![CDATA[<html><body><b>2.I am registered in the intangible prescription and I received an SMS with an appointment which does not serve me. What should I do?</b></body></html> ]]></string>
+    <string name="answer2"><![CDATA[<html><body>You can change the appointment suggested to you either at emvolio.gov.gr, or at a pharmacy or KEP, with the same procedure described in the next question, ie with the procedure followed by those who were not registered in the intangible prescription.</body></html> ]]></string>
+    <string name="question3"><![CDATA[<html><body><b>3.I belong to the population group that is vaccinated at the moment, I am not registered in the intangible prescription and I want to make an appointment for vaccination. What should I do?</b></body></html> ]]></string>
+    <string name="answer3"><![CDATA[<html><body>You have two ways: either to enter emvolio.gov.gr, or to go to a pharmacy or KEP.</body></html> ]]></string>
+    <string name="question4"><![CDATA[<html><body><b>4.I belong to the population group that is currently vaccinated, but it is not easy to go to KEP to make an appointment. Can a relative do it for me?</b></body></html> ]]></string>
+    <string name="answer4"><![CDATA[<html><body>Yes, it is possible. In fact, it can be done without authorization, as long as the person who will do the procedure for you signs a responsible statement with the following content:  "I represent the (name) with (ID or passport no.) And (AMKA) in order to schedule his / her appointment against covid19".  The person who will come must have his / her identity with him / her, while it is good to have a simple copy of the identity of the person for whom he / she is acting, in case some additional information is needed to identify him / her in the registers.</body></html> ]]></string>
+    <string name="question5"><![CDATA[<html><body><b>5.I belong to the population group that is currently vaccinated, registered in the intangible prescription and I did not receive an SMS. What should I do?</b></body></html> ]]></string>
+    <string name="answer5"><![CDATA[<html><body>What you need to do is check that you have been selected for the current phase of the vaccination. This is done in three ways: either at your pharmacy or KEP (with ID and AMKA), or at emvolio.gov.gr (with AMKA and AFM), or by sending an SMS to 13034 with your AMKA. If this is indeed a phone number issue, you can follow the appointment procedure described in the previous question.</body></html> ]]></string>
+    <string name="question6"><![CDATA[<html><body><b>6.Although I belong to the population group that is being vaccinated at the moment, I did a priority test and it shows me not selected for vaccination. What should I do?</b></body></html> ]]></string>
+    <string name="answer6"><![CDATA[<html><body>You will need to log in to emvolio.gov.gr/aitisi and fill out the form that will appear - you will not be asked for Taxisnet codes. Your application will be reviewed by the relevant Committee and, if you did indeed have the right to be vaccinated during the current period, you will be informed on how to make an appointment. The application process can also be done at the KEP. Pay close attention to the contact details you provide, so that you can receive your response as soon as possible.</body></html> ]]></string>
+    <string name="question7"><![CDATA[<html><body><b>7.I belong to the population group that is being vaccinated at the moment and until today I had not registered in the intangible prescription. If I register now, will I receive an SMS?</b></body></html> ]]></string>
+    <string name="answer7"><![CDATA[<html><body>Unfortunately, the pre-booking process for each population group is done only once, before the appointments for that group are opened. Therefore, if you are in the vaccinated population group at this time, intangible prescribing may help you with your prescriptions and referrals, but not to make a vaccination appointment. Therefore, you should follow the procedure for the unregistered.  Those who do not belong to the population group that is currently being vaccinated can still subscribe to the intangible prescription and, when your own population group is called, you will normally receive an SMS with the pre-booking appointment.</body></html> ]]></string>
+    <string name="question8"><![CDATA[<html><body><b>8.I have booked my appointment, but I want to change it. What should I do?</b></body></html> ]]></string>
+    <string name="answer8"><![CDATA[<html><body>Appointments change as they close: either at emvolio.gov.gr, or at a pharmacy or KEP, in the same way as described before. Be aware that an appointment change can only be made twice and only if you request it at least 120 hours before the originally scheduled appointment.</body></html> ]]></string>
+    <string name="question9"><![CDATA[<html><body><b>9.I have booked my appointment, but I do not remember when it is. What should I do?</b></body></html> ]]></string>
+    <string name="answer9"><![CDATA[<html><body>Initially, your appointment is scheduled to be reminded three times, via SMS to the number you have stated to us: the first three days before the appointment, the second on the eve of the appointment and the third at 7 am on the day of the appointment.  If, nevertheless, you wish to search for your appointment at any time, you can either send an SMS to 13034 writing AMKA and your surname, or enter emvolio.gov.gr (search with AMKA and AFM), or contact in a pharmacy or KEP.</body></html> ]]></string>
+    <string name="question10"><![CDATA[<html><body><b>10.What do I need to have with me when I come to get vaccinated?</b></body></html> ]]></string>
+    <string name="answer10"><![CDATA[<html><body>You must have with you your ID and your draft AMKA and the vaccination code. Printing of vaccination details is optional.</body></html> ]]></string>
+    <string name="faq_title1"><![CDATA[<html><body><h1 style="text-align:center;">Frequently asked questions</h1></body></html> ]]></string>
+    <string name="faq_title2"><![CDATA[<html><body><br><h1 style="text-align:center;">Questions and answers</h1></body></html> ]]></string>
+    <string name="menu_statistics">Statistics of vaccination</string>
+    <string name="menu_faq">F.A.Q.</string>
+    <string name="menu_exit">Exit</string>
+    <string name="statistics_title">Pick dates from - to :</string>
+    <string name="statistics_text1">From</string>
+    <string name="statistics_text2">To</string>
+    <string name="statistics_button">SUBMIT</string>
+    <string name="statistics_column1">Date</string>
+    <string name="statistics_column2">Vaccines</string>
+    <string name="statistics_column3">Vaccines a-dose</string>
+    <string name="statistics_column4">Vaccines b-dose</string>
+    <string name="statistics_column5">Total vaccines to date</string>
+    <string name="vaccination_appointment_textview1">Name :</string>
+    <string name="vaccination_appointment_textview2">Surname :</string>
+    <string name="vaccination_appointment_textview3">AMKA :</string>
+    <string name="vaccination_appointment_textview4">Phone :</string>
+    <string name="vaccination_appointment_textview5">E-mail :</string>
+    <string name="vaccination_appointment_textview6">Datetime :</string>
+    <string name="vaccination_appointment2_title">Appointment details</string>
+    <string name="vaccination_appointment2_button">CANCEL APPOINTMENT</string>
+    <string name="vaccination_appointment2_button2">CHANGE APPOINTMENT</string>
+    <string name="vaccination_appointment3_title">Insert new datetime</string>
+    <string name="vaccination_appointment3_button">CHANGE DATETIME</string>
+    <string name="vaccination_appointment_toast1">Your appointment has been arranged</string>
+    <string name="vaccination_appointment_toast2">Your appointment has been cancelled</string>
+    <string name="vaccination_appointment_toast3">Your appointment\'s date has been changed</string>
+    <string name="vaccination_appointment_name_error1">Name cannot be empty</string>
+    <string name="vaccination_appointment_name_error2">Name contains only letters</string>
+    <string name="vaccination_appointment_surname_error1">Surname cannot be empty</string>
+    <string name="vaccination_appointment_surname_error2">Surname contains only letters</string>
+    <string name="vaccination_appointment_amka_error1">AMKA cannot be empty</string>
+    <string name="vaccination_appointment_amka_error2">AMKA contains 11 numbers</string>
+    <string name="vaccination_appointment_phone_error1">Phone cannot be empty</string>
+    <string name="vaccination_appointment_phone_error2">Phone contains 10 numbers</string>
+    <string name="vaccination_appointment_email_error1">E-mail cannot be empty</string>
+    <string name="vaccination_appointment_email_error2">Invalid e-mail</string>
+    <string name="vaccination_appointment_amka_error3">AMKA contains only numbers</string>
+    <string name="vaccination_appointment_phone_error3">Phone contains only numbers</string>
+    <string name="vaccination_appointment3_button2">CANCEL</string>
+    <string name="exit_message">Are you sure you want to exit?</string>
+    <string name="exit_message1">YES</string>
+    <string name="exit_message2">NO</string>
+</resources>
